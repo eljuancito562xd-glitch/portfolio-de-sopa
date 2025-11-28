@@ -72,12 +72,14 @@ nav a:hover {
 .proyectos {
   background: #121212;
   padding: 60px 20px;
-  text-align: center;
+  text-align: center
+
 }
 
 .proyectos h2 {
   color: #ff4444;
   margin-bottom: 40px;
+  
 }
 
 .grid {
